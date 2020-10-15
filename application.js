@@ -42,9 +42,7 @@ function managerPrompts() {
          employeeID++;
 
          console.log(`
-         ~~~~~~~~~~~~~~
-         Now we'll collect information from you about your employees
-         ~~~~~~~~~~~~~~
+         
          `);
 
          employeePrompts();
